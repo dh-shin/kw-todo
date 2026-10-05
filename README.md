@@ -1,5 +1,5 @@
 # kw-todo
-A command-line to-do app for our team project.
+A to-do app that keeps three busy students on track.
 
 ## Features
 - Add a task
