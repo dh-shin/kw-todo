@@ -1,2 +1,2 @@
 # kw-todo
-A tiny to-do app for a team project (lecture demo)
+A to-do app that keeps three busy students on track.
