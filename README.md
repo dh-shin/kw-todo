@@ -5,3 +5,6 @@ A to-do app that keeps three busy students on track.
 - Add a task
 - Mark a task as done
 - Delete a task
+
+## Commands
+- `list` shows every task
